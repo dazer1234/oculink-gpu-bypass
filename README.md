@@ -305,3 +305,8 @@ Pull requests welcome! Please test on actual hardware before submitting.
 - [NVIDIA Tesla Driver Archive](https://www.nvidia.com/Download/index.aspx)
 - [CUDA Toolkit Archive](https://developer.nvidia.com/cuda-toolkit-archive)
 - [OCuLink SFF-8612 Specification](https://www.snia.org/technology-communities/sff/specifications)
+---
+### Part of the Elyan Labs Ecosystem
+- [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
+- [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
+- [GitHub](https://github.com/Scottcjn)
