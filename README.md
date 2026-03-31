@@ -136,7 +136,7 @@ PowerPC CPUs (PPC970/G5, POWER8/9) are **bi-endian** - they can run in either bi
 
 ```bash
 # Clone repo
-git clone https://github.com/elyanlabs/oculink-gpu-bypass.git
+git clone https://github.com/Scottcjn/oculink-gpu-bypass.git
 cd oculink-gpu-bypass
 
 # Install scripts
